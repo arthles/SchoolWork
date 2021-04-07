@@ -1,0 +1,13 @@
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.exe
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.deps.json
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.runtimeconfig.json
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.runtimeconfig.dev.json
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.dll
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\bin\Debug\netcoreapp3.1\klasesparrarel.pdb
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.csprojAssemblyReference.cache
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.AssemblyInfoInputs.cache
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.AssemblyInfo.cs
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.csproj.CoreCompileInputs.cache
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.dll
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.pdb
+C:\Users\nikso\source\repos\klasesparrarel\klasesparrarel\obj\Debug\netcoreapp3.1\klasesparrarel.genruntimeconfig.cache
